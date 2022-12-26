@@ -1,0 +1,11 @@
+{
+    "name": "ChatbotSkill",
+    "description": "A chatbot skill for Mycroft",
+    "author": "Jane Doe",
+    "version": "1.0.0",
+    "dependencies": [
+      "python-dateutil",
+      "pytz",
+      "requests"
+    ]
+  }

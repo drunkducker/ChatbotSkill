@@ -1,0 +1,28 @@
+{
+    "intents": [
+      {
+        "name": "ChatIntent",
+        "phrases": [
+          "Let's chat",
+          "I want to talk",
+          "Can we talk"
+        ]
+      },
+      {
+        "name": "NameIntent",
+        "phrases": [
+          "My name is {Name}",
+          "I am {Name}",
+          "Call me {Name}"
+        ]
+      },
+      {
+        "name": "FeelingIntent",
+        "phrases": [
+          "I am feeling {Feeling}",
+          "I feel {Feeling}",
+          "I'm {Feeling}"
+        ]
+      }
+    ]
+  }
